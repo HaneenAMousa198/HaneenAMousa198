@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Laravel+Developer;React+Developer;PHP+%7C+MySQL;JavaScript+%7C+HTML+%26+CSS;Git+%26+GitHub+Lover" alt="Typing SVG" />
 </p>
 
-<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="370">
+<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="300">
 <br>
 
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
