@@ -89,7 +89,8 @@
    <br>
   <a href="https://firebase.google.com" target="_blank">
     <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="40"/></code>
-  </a>
+</a>
+
 
 
 <br>
