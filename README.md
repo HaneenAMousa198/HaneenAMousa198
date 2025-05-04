@@ -86,10 +86,7 @@
   <a href="https://www.mysql.com" target="_blank">
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"  alt="Mysql" height="40"/></code>
   </a>
-   <br>
-  <a href="https://firebase.google.com" target="_blank">
-    <code><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Firebase_Logo_2016.svg" alt="firebase" height="40"/></code>
-</a>
+  
 
 
 
